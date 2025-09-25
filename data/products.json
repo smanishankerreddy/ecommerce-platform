@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Noise-Cancelling Headphones",
+    "price": 4999,
+    "description": "Over-ear wireless headphones with active noise-cancellation technology, deep bass, and up to 30 hours of battery life. Comfortable fit for long listening sessions and compatible with all Bluetooth devices.",
+    "category": "Electronics",
+    "tags": [
+      "audio",
+      "wireless",
+      "headphones"
+    ],
+    "image": "assets/product5.jpg",
+    "onSale": true
+  },
+  {
+    "id": 2,
+    "title": "Professional Football",
+    "price": 2499,
+    "description": "Official size and weight football made from premium PU leather for durability and superior grip. Designed for professional training, matches, and recreational play with enhanced aerodynamics for precise control.",
+    "category": "Sports",
+    "tags": [
+      "football",
+      "sports",
+      "training"
+    ],
+    "image": "assets/product2.jpg",
+    "onSale": false
+  },
+  {
+    "id": 3,
+    "title": "Nike Running Shoes",
+    "price": 6999,
+    "description": "Lightweight and comfortable Nike running shoes with breathable mesh upper, cushioned midsole for shock absorption, and durable rubber outsole. Ideal for running, gym workouts, and casual wear.",
+    "category": "Footwear",
+    "tags": [
+      "nike",
+      "shoes",
+      "running"
+    ],
+    "image": "assets/product3.jpg",
+    "onSale": true
+  },
+  {
+    "id": 4,
+    "title": "Stylish Summer Hat",
+    "price": 799,
+    "description": "A versatile summer hat crafted from high-quality breathable fabric with a wide brim to protect from the sun. Lightweight, adjustable, and perfect for outdoor activities, beach trips, and casual wear.",
+    "category": "Accessories",
+    "tags": [
+      "hat",
+      "summer",
+      "fashion"
+    ],
+    "image": "assets/product4.jpg",
+    "onSale": false
+  },
+  {
+    "id": 5,
+    "title": "Smart Mobile Phone",
+    "price": 15999,
+    "description": "A high-performance smartphone featuring a 6.7-inch AMOLED display, 128GB storage, 8GB RAM, triple-lens camera system, and long-lasting 4500mAh battery. Perfect for photography, gaming, and productivity on the go.",
+    "category": "Electronics",
+    "tags": [
+      "mobile",
+      "smartphone",
+      "android"
+    ],
+    "image": "assets/product1.jpg",
+    "onSale": true
+  },
+  {
+    "id": 6,
+    "title": "Durable Backpack with Laptop Sleeve",
+    "price": 2299,
+    "description": "Spacious and durable backpack designed for travel and daily use. Features multiple compartments including a padded laptop sleeve, water-resistant material, adjustable shoulder straps, and reinforced stitching for long-lasting durability.",
+    "category": "Accessories",
+    "tags": [
+      "bag",
+      "backpack",
+      "travel"
+    ],
+    "image": "assets/product6.jpg",
+    "onSale": true
+  },
+  {
+    "id": 7,
+    "title": "Classic Cotton T-Shirt",
+    "price": 599,
+    "description": "Comfortable and stylish T-shirt made from 100% premium cotton for a soft, breathable fit. Features a classic crew neck, durable stitching, and available in multiple colors. Perfect for casual wear, sports, or layering under jackets.",
+    "category": "Apparel",
+    "tags": [
+      "tshirt",
+      "cotton",
+      "casual"
+    ],
+    "image": "assets/product7.jpg",
+    "onSale": true
+  }
+]
